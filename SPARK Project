@@ -6,13 +6,29 @@ A smart, sustainable energy solution built with love, logic, and lots of sunligh
 
 ---
 
-## 🧾 About the Project
+##  About the Project
 
 **SPARK** is an innovative solar-powered energy kit that harnesses sunlight to charge your devices — anytime, anywhere. It was designed as part of a hands-on engineering challenge, aiming to provide reliable, green energy in various scenarios.
 
 ---
 
-##  Key Features
+##  External Design and internal design
+
+The SPARK project features a sleek and durable external design crafted for real-world use:
+ 
+- **Robust enclosure:** Protects internal electronics from dust, moisture, and impact.  
+- **Ergonomic layout:** Intuitive placement of USB ports, solar panel, flashlight, and LCD screen for effortless access.  
+- **Solar panel integration:** Positioned on the top surface to maximize sunlight absorption.  
+- **LED indicators:** Clearly show battery status and solar charging activity.  
+
+<p align="center">
+  <img src="images/external_design_front.jpg" alt="SPARK Front View" width="400"/>
+  <img src="images/external_design_back.jpg" alt="SPARK Back View" width="400"/>
+</p>
+
+---
+
+## 🔋 Key Features
 
 - 6000mAh capacity with multiple outputs:
   - USB-A

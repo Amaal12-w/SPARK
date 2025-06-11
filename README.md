@@ -22,6 +22,7 @@ The SPARK project features a sleek and durable external design crafted for real-
 - **LED indicators:** Clearly show battery status and solar charging activity.  
 
 ![Image](https://github.com/user-attachments/assets/25d1831e-1460-4797-80ff-389c2eb1c69f)
+![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
 
 
 ---

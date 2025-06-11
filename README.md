@@ -23,6 +23,7 @@ The SPARK project features a sleek and durable external design crafted for real-
 
 <p align="center">
 <img src="SPARK/WhatsApp_Image_2025-04-25_at_3.47.46_PM.jpeg" alt="Initial design to SPARK" width="400"/>
+![Image](https://github.com/user-attachments/assets/25d1831e-1460-4797-80ff-389c2eb1c69f)
 
   
 </p>

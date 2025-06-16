@@ -55,12 +55,7 @@ The SPARK project features a sleek and durable external design crafted for real-
 
 ## 🧠 Internal Circuit Design
 
-Here are some internal views of the SPARK project showing the hardware wiring and layout:
-
-<p align="center">
-  <img src="images/internal_circuit_1.jpg" alt="Internal Circuit View 1" width="400"/>
-  <img src="images/internal_circuit_2.jpg" alt="Internal Circuit View 2" width="400"/>
-</p>
+Here are some internal views of the SPARK project showing the hardware wiring and layou
 ![Image](https://github.com/user-attachments/assets/fcb9dfcb-3ed2-4504-969d-f0770c5210e7)
 
 ---

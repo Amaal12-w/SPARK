@@ -56,7 +56,6 @@ The SPARK project features a sleek and durable external design crafted for real-
 ## 🧠 Internal Circuit Design
 
 Here are some internal views of the SPARK project showing the hardware wiring and layou
-![Image](https://github.com/user-attachments/assets/fcb9dfcb-3ed2-4504-969d-f0770c5210e7)
 
 ---
 

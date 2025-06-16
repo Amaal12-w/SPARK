@@ -23,7 +23,6 @@ The SPARK project features a sleek and durable external design crafted for real-
 
 ![Image](https://github.com/user-attachments/assets/25d1831e-1460-4797-80ff-389c2eb1c69f)
 ![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
-![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
 ![Image](https://github.com/user-attachments/assets/571edb3b-7ab2-4dfc-b6aa-87bc5b0c15ba)
 ![Image](https://github.com/user-attachments/assets/2641e7ba-b1ef-4dc8-8d00-46c8d3694e70)
 ![Image](https://github.com/user-attachments/assets/76409d38-1ba6-4d7a-8eed-2b46f098b51c)
@@ -59,6 +58,8 @@ The SPARK project features a sleek and durable external design crafted for real-
 ## 🧠 Internal Circuit Design
 
 Here are some internal views of the SPARK project showing the hardware wiring and layou
+![Image](https://github.com/user-attachments/assets/ab31cc40-04ac-4fb9-8d5e-a62398a72621)
+![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
 
 ---
 

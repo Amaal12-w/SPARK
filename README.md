@@ -25,6 +25,7 @@ The SPARK project features a sleek and durable external design crafted for real-
 ![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
 ![Image](https://github.com/user-attachments/assets/0262c5c4-5890-4a19-8a72-faacb8ed835f)
 ![Image](https://github.com/user-attachments/assets/571edb3b-7ab2-4dfc-b6aa-87bc5b0c15ba)
+![Image](https://github.com/user-attachments/assets/2641e7ba-b1ef-4dc8-8d00-46c8d3694e70)
 
 
 ---

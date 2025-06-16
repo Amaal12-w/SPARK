@@ -75,8 +75,7 @@ Here’s a quick demonstration of the SPARK project in action, showing real usag
 - Compact and portable design
 
 [![Watch the demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-<!-- Failed to upload "freecompress-document_5805349441070177698.mp4" -->
----
+https://drive.google.com/file/d/16KsgC_V1jU9XJ9VXPgVabBInwPaK-P17/view?usp=drive_link---
 
 ## 📊 Presentation Slides
 

@@ -86,14 +86,9 @@ For a detailed walkthrough and explanation, check out our presentation slides he
 
 ## 🔧 Tools & Technologies Used
 
-- Arduino Uno
 - LCD Display
 - 12V / 5W Solar Panel
 - Battery Management Modules
-- Proteus Simulation Software
-- Multisim
-- LTspice
-
 ---
 
 ## 🎯 Future Goals

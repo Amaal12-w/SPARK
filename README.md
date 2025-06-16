@@ -82,7 +82,7 @@ Here’s a quick demonstration of the SPARK project in action, showing real usag
 
 For a detailed walkthrough and explanation, check out our presentation slides here:  
 [SPARK Project Slides](https://your-slides-link-here.com)
-
+[Copy of Team members-compressed.pdf](https://github.com/user-attachments/files/20762452/Copy.of.Team.members-compressed.pdf)
 ---
 
 ## 🔧 Tools & Technologies Used
